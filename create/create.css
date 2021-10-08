@@ -1,0 +1,38 @@
+body{
+  background-color: black;
+  font-family: 'Open Sans Condensed', sans-serif;
+  color:white;
+}
+.first{
+  border: 2px solid darkred;
+  padding: 5px; 
+  background-color: darkred;
+}
+.abc{
+  border: 2px solid darkred;
+  border-radius:10px;
+  margin: 10px 20px 10px 25px;
+  padding: 8px;
+}
+marquee{
+  color:red;
+  font-size: 25px;
+}
+.ff{
+  border: 1px  dashed darkred;
+  width: 550px;
+  margin: 50px 50px 50px 400px;
+  padding: 8px;
+}
+h1{
+  color: brown;
+}
+.b{
+  float:right;
+}
+.h{
+  color: aliceblue;
+}
+.j{
+  color: red;
+}

@@ -1,0 +1,58 @@
+.first{
+  border: 2px solid darkred;
+  padding: 5px; 
+  background-color: darkred;
+}
+body{
+  background-color: black;
+  font-family: 'Open Sans Condensed', sans-serif;
+  color:white;
+}
+.xyz{
+  border-top: 3px solid darkred;
+  border-bottom: 3px solid darkred;;
+  height: 400px;
+  width: 600px;
+  margin: 10px 20px 10px 25px;
+  padding: 8px;
+  border-radius:10px;
+  float:left;
+  background-color: white;
+  color: black;
+}
+h2{
+  color: tomato;
+}
+.abc{
+  border: 2px solid darkred;
+  border-radius:10px;
+  margin: 10px 20px 10px 25px;
+  padding: 8px;
+}
+h1{
+  color: lightcoral;
+}
+marquee{
+  color:red;
+  font-size: 25px;
+}
+.b{
+  float:right;
+}
+.m{
+  margin: 10px 20px 10px 25px;
+  padding: 8px;
+}
+.g{
+  color: royalblue;
+}
+.l{
+  float: left;
+}
+.h{
+  color: aliceblue;
+}
+.p{
+  border: 2px solid darkred;
+  padding: 5px;
+}
